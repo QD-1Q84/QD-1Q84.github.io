@@ -1,1 +1,8 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
+
+# Name of website
+title: 青豆翻译社
+brief-intro: 自由译员 Freelancer
+
+# Short description of your site
+description: 自由译员 · 英语翻译
